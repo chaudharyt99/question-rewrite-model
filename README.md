@@ -10,7 +10,7 @@ This guide covers the essentials of fine-tuning the bart-base model and using it
 #### Notebooks
 
 - **bart-experiment.ipynb**
-  - This notebook contains the complete workflow for fine-tuning a bart-base model using the [Disfl-QA Dataset]([https://www.genome.gov/](https://github.com/google-research-datasets/Disfl-QA)). After fine-tuning, the model is uploaded to [Huggingface](https://huggingface.co/tchoudh8/bart-base-finetuned-w-data-augm-4e-5) to ensure easy access and training and hyperparameter optimisation logs are also updated on [WandB](https://wandb.ai/tchoudh8/chata-ai?nw=nwuserchoudharytushar1599).
+  - This notebook contains the complete workflow for fine-tuning a bart-base model using the [Disfl-QA Dataset](https://www.genome.gov/](https://github.com/google-research-datasets/Disfl-QA). After fine-tuning, the model is uploaded to [Huggingface](https://huggingface.co/tchoudh8/bart-base-finetuned-w-data-augm-4e-5) to ensure easy access and training and hyperparameter optimisation logs are also updated on [WandB](https://wandb.ai/tchoudh8/chata-ai?nw=nwuserchoudharytushar1599).
 
 - **bart-inference.ipynb**
   - Designed for performing inference with the fine-tuned bart-base model hosted on Huggingface. 
