@@ -23,6 +23,6 @@ This guide covers the essentials of fine-tuning the bart-base model and using it
 
 To test the model using your dataset:
 
-1. Put the file path og your `.json` dataset in this function load_and_process_json_datasets('<file.json>')
+1. Put the file path og your `.json` dataset in this function `load_and_process_json_datasets('<file.json>')`
 2. Execute the appropriate notebook, whether for training or inference, depending on your requirements.
 
